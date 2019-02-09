@@ -26,18 +26,7 @@
  </style>
   <script src="https://js.stripe.com/v3/"></script>
 </head>
-<body>
 
- var stripe = Stripe('pk_test_ozsuSVsnH2REsEC5FbpEhtqP');
-var elements = stripe.elements();
-
-var card = elements.create('card');
-card.mount('#card-element');
-
-var promise = stripe.createToken(card);
-promise.then(function(result) {
-  // result.token is the card token.
-});
 <p>Test</p>
   
   
