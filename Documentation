@@ -1,0 +1,10 @@
+Tried to integrate stripe in website per instructions: https://stripe.com/docs/stripe-js/elements/quickstart
+
+copied/pasted code from 
+'Result HTML CSS JavaScript '
+tabs
+
+2 issues to solve
+1. getting error 405, not right account. weird b/c there should be some functionality with the standard account. 
+
+2. the css doesn't appear to come through at all either
