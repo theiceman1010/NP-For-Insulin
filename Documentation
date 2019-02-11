@@ -8,3 +8,10 @@ tabs
 1. getting error 405, not right account. weird b/c there should be some functionality with the standard account. 
 
 2. the css doesn't appear to come through at all either
+
+
+
+
+
+
+appeared to workaround issue with buynowplus.com, see commit note
